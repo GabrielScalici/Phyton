@@ -1,2 +1,3 @@
-# Phyton
-Aprendendo a linguagem
+# Phython
+Aprendendo a linguagem.
+ * Exercicios básicos para entendimento da sintaxe
